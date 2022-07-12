@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spynom
+- 👋 Hi, I’m saurav kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and complex mathmatics for data science
 - 💞️ I’m looking to collaborate on python project

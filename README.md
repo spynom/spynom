@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and complex mathmatics for data science
 - 💞️ I’m looking to collaborate on python project
-- 📫 How to reach me trhough mail "saurav24082000@gmail.com"
+- 📫 How to reach me through mail "saurav24082000@gmail.com"
 
 <!---
 spynom/spynom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

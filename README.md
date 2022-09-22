@@ -1,4 +1,5 @@
 <img align="center" alt="profile" src="https://github.com/spynom/spynom/blob/main/BCT2.gif?raw=true">
+<h3 align="left">ABOUT ME:</h1>
 
 - 🔭 seeking an opportunity to establish a career in **Data science** field
 

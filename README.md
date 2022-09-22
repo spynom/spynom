@@ -12,7 +12,8 @@
 
 <h3 align="left">Tableau's Projects:</h3>
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/spynom/AirBnB-dataset-visualizaton/blob/main/Dashboard%201.png?raw=true" alt="mysql" width="800" height="400"/>
+- [AirBnB dataset visualizaton](https://public.tableau.com/app/profile/saurav.kumar4093/viz/AirBnBdatasetvisualizaton/Dashboard1)
+- [Online Store's Sales Performance](https://public.tableau.com/views/OnlineStoresSalesPerformance/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/spynom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spynom" height="30" width="40" /> <a href="mailto:saurav24082000@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="spynom" height="40" width="40" /> </a> <a href="callto:7369016382" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="spynom" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/spynom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spynom" height="30" width="40" /> <a href="mailto:saurav24082000@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="spynom" height="40" width="40" /> </a> <a href="https://github.com/spynom/spynom/blob/main/Phone%20Number" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="spynom" height="40" width="40" /> </a>
 </p>
 
 ---

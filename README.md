@@ -1,18 +1,17 @@
 <img align="center" alt="profile" src="https://github.com/spynom/spynom/blob/main/BCT2.gif?raw=true">
-<h1 align="center">Hi 👋, I'm Saurav kumar</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **Laptop price's predictor**
+- 🔭 seeking an opportunity to establish a career in **Data science** field
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 🤝 I’m looking for help with **Data Science projects on kaggle**
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/spynom?tab=repositories)
 
-- 💬 Ask me about **Statistics,Mathematics,SQl**
-
 - ⚡ Fun fact **I feel uncomfortable until I finish my work**
+
+<h3 align="left">PROJECTS:</h1>
+
+<h3 align="left">Tableau's Projects:</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Data Science projects on kaggle**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spynom?tab=repositories](https://github.com/spynom?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/spynom?tab=repositories)
 
 - 💬 Ask me about **Statistics,Mathematics,SQl**
 

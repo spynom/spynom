@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/102503642/191824022-3f06244d-4d18-4e16-887f-849dfca4a705.png)
+
 <h1 align="center">Hi 👋, I'm Saurav kumar</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 

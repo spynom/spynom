@@ -1,11 +1,5 @@
 <img align="center" alt="profile" src="https://github.com/spynom/spynom/blob/main/BCT2.gif?raw=true">
 
----
-
-Here’s the revised README without your phone number and GitHub link:
-
----
-
 # 🌟 **Saurav Kumar**  
 ### *Turning Data into Meaningful Insights, One Model at a Time*  
 

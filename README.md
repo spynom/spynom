@@ -2,35 +2,82 @@
 
 ---
 
-<h3 align="left">ABOUT ME:</h1>
-
-- 🔭 seeking an opportunity to establish a career in **Data science** field
-
-- 🌱 I’m currently learning **Deep learning**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/spynom?tab=repositories)
-
-- ⚡ Fun fact **I feel uncomfortable until I finish my work**
+Here’s the revised README without your phone number and GitHub link:
 
 ---
 
-<h3 align="left">PROJECTS:</h1>
-
-<h3 align="left">Tableau's Projects:</h3>
-
-- [AirBnB dataset visualizaton](https://public.tableau.com/app/profile/saurav.kumar4093/viz/AirBnBdatasetvisualizaton/Dashboard1)
-- [Online Store's Sales Performance](https://public.tableau.com/views/OnlineStoresSalesPerformance/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+# 🌟 **Saurav Kumar**  
+### *Turning Data into Meaningful Insights, One Model at a Time*  
 
 ---
 
-<h3 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/spynom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spynom" height="30" width="40" /> <a href="mailto:saurav24082000@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="spynom" height="40" width="40" /> </a> <a href="https://github.com/spynom/spynom/blob/main/Phone%20Number" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="spynom" height="40" width="40" /> </a>
-</p>
+## 👋 Hello, World!  
+
+I’m **Saurav Kumar**, a data science enthusiast who loves tackling complex challenges with data-driven solutions. Whether it's designing a cutting-edge recommendation system, optimizing ML pipelines, or crafting sentiment analysis models, I’m here to bridge the gap between numbers and narratives.  
+
+### 🌍 Let’s connect!  
+- **Email:** [spynom01@gmail.com](mailto:spynom01@gmail.com)  
+- **Location:** New Delhi, India  
+- [🌐 LinkedIn](#)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/921/921591.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://numpy.org/doc/stable/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://numpy.org/doc/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="mysql" width="40" height="40"/> </a></p>
+## 🛠️ My Toolbelt  
+
+### **Professional Superpowers**  
+🧠 Critical Thinking | 🤝 Collaboration | ⏳ Time Management  
+💡 Analytical Problem-Solving | 🗣️ Communication | 🚀 Execution  
+
+### **Technical Magic**  
+🔍 Data Analysis | 🎛️ Model Development | 🚀 Model Deployment  
+📈 Statistics & Probability | 🔄 CI/CD Automation  
+
+### **Languages & Frameworks**  
+- **Programming:** Python 🐍, SQL  
+- **Libraries:** Scikit-learn, PyTorch, Langchain, FastAPI, XGBoost  
+- **Tools:** AWS, Docker, MLflow, DVC  
+
+---
+
+## 🏆 Highlights  
+
+### 💬 **Kotak Bank Customer Support Bot**  
+*Personalized customer support at lightning speed!*  
+- **Built with:** Langchain, MongoDB, AWS Lambda  
+- Integrated **transformer models** to understand and respond to user queries.  
+- Achieved **high accuracy** with RAGAS metrics:  
+  - Relevancy: 0.879  
+  - Precision: 0.926  
+  - Faithfulness: 0.941  
+[🔗 Explore the Project](#)
+
+---
+
+### 📝 **YouTube Comment Sentiment Analysis**  
+*Decoding emotions one comment at a time.*  
+- Created an **end-to-end MLOps pipeline** for sentiment analysis.  
+- Boosted model accuracy from **65.8% to 92%**.  
+- Automated CI/CD workflows with GitHub Actions for seamless deployment.  
+- Scaled the system with **ASG and Load Balancer** on AWS.  
+[🔗 Check it Out](#)
+
+---
+
+## 🎓 Credentials  
+
+### **Certifications**  
+- **Data Science Mentorship Program 2.0** (*Dec 2023 - Nov 2024*)  
+  - Advanced MLOps, Data Management, CI/CD, and AWS.  
+- **Data Science Mentorship Program** (*Dec 2022 - Aug 2023*)  
+  - Focus on Machine Learning, Statistics, and Optimization.
+
+---
+
+## 🎨 Beyond the Code  
+
+When I'm not crunching numbers or deploying models, you'll find me exploring:  
+🌱 Sustainability topics | 🎨 Digital design | 📖 Science fiction novels  
+
+Let’s collaborate to turn your data-driven dreams into reality!  
+
+---

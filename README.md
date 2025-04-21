@@ -18,9 +18,6 @@ I’m **Saurav Kumar**, a data science enthusiast who loves tackling complex cha
 
 ## 🛠️ My Toolbelt  
 
-### **Professional Superpowers**  
-🧠 Critical Thinking | 🤝 Collaboration | ⏳ Time Management  
-💡 Analytical Problem-Solving | 🗣️ Communication | 🚀 Execution  
 
 ### **Technical Magic**  
 🔍 Data Analysis | 🎛️ Model Development | 🚀 Model Deployment  
